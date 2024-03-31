@@ -14,3 +14,8 @@
 [31-Mar-2024 02:38:53 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [31-Mar-2024 02:45:24 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [31-Mar-2024 02:45:46 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[31-Mar-2024 03:46:42 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[31-Mar-2024 03:48:07 UTC] PHP Warning:  mkdir(): No such file or directory in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/csv.php on line 411
+[31-Mar-2024 03:48:07 UTC] PHP Warning:  file_put_contents(/wordpress/wp-content/uploads/ic-simple-csv/.htaccess): Failed to open stream: No such file or directory in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/csv.php on line 414
+[31-Mar-2024 03:48:07 UTC] PHP Warning:  file_put_contents(/wordpress/wp-content/uploads/ic-simple-csv/index.php): Failed to open stream: No such file or directory in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/csv.php on line 417
+[31-Mar-2024 03:48:07 UTC] PHP Warning:  fopen(/wordpress/wp-content/uploads/ic-simple-csv/94bb5634db4382ab4988de0564fb0e27-import.csv): Failed to open stream: No such file or directory in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/csv.php on line 204
